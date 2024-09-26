@@ -5,7 +5,7 @@
 
     
 
-> 📂 **Source code is [here](https://github.com/kowshik14/FraudDetection-SupplyChain/blob/src).**
+> 📂 **Source code is [here](https://github.com/kowshik14/FraudDetection-SupplyChain/tree/main/src).**
 
 
 ## Abstract
